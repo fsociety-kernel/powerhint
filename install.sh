@@ -122,9 +122,10 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "*****************************************"
+  ui_print "     Pixel 4 Powerhint install script    "
+  ui_print "           by kingbri@kingdevel          "
+  ui_print "*****************************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.

@@ -1,6 +1,7 @@
-id=template
-name=Template Module
+id=p4powerhintkingbri
+name=Powerhint Adjuster
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=kingbri
+description=Switches powerhint on Pixel 4/4xl
+minMagisk=19000
