@@ -1,7 +1,7 @@
 id=p4powerhintkingbri
-name=Powerhint Adjuster
-version=v1
-versionCode=1
+name=Powerhint Adjuster by kingbri
+version=v2.0
+versionCode=3
 author=kingbri
 description=Switches powerhint on Pixel 4/4xl
 minMagisk=19000
